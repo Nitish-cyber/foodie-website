@@ -1,0 +1,28 @@
+
+/* selectors in CSS */
+
+/* class selcetor  access by . */
+.externalcss{
+    color: green;
+    background-color: yellow;
+}
+/* id selcetor  access by # */
+
+#logic{
+    color: blueviolet;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* universal selector */
+
+*{
+    background-color: greenyellow;
+}
+
+/* element selector */
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:underline ;
+}
